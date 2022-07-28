@@ -1,0 +1,9 @@
+{
+  "scripts":{
+    "start":"sandbox"
+  },
+  "dependencies":{
+    "@enhance/arc-plugin-enhance":"latest",
+    "@architect/sandbox":"latest"
+  }
+}
